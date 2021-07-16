@@ -2,7 +2,7 @@
 lock "~> 3.16.0"
 
 set :application, "qna"
-set :repo_url, "git@github.com:DADUSHKA/Qna-last.git"
+set :repo_url, "git@github.com:DADUSHKA/qna_l.git"
 
 # Default branch is :master
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
